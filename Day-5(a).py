@@ -1,3 +1,4 @@
+#Easy level Random Password Generator
 import random
 
 print("Welcome to Password Generator")

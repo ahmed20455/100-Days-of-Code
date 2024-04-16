@@ -9,3 +9,6 @@ The course is divided into 100 days, with each day focusing on a specific topic,
 
 ### Daily Exercises: Short coding exercises or challenges to reinforce key concepts.
 ### Mini Projects: Hands-on projects to apply what you've learned and build real-world applications.
+### Day-1
+In day 1, I learned about printing,commenting,debugging,string manipulation,variables,input function.
+Project - Band-Name Generator

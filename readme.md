@@ -11,7 +11,7 @@ The course is divided into 100 days, with each day focusing on a specific topic,
 ### Mini Projects: Hands-on projects to apply what you've learned and build real-world applications.
 ### Day-1
 In day 1, I learned about printing,commenting,debugging,string manipulation,variables,input function.
-#### Project - Band-Name Generator
+#### [Project - Band-Name Generator](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-1.py)
 ### Day-2
 In day 2, I learned about the data types in python,type casting and type conversion and f- strings.
 #### Project - Tip Calculator

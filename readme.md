@@ -1,4 +1,4 @@
-# 100 Days of Code - Python Course
+# [100 Days of Code - Python Course](https://github.com/ahmed20455/100-Days-of-Code/tree/main)
 Welcome to the "100 Days of Code" Python course repository! This repository is designed to accompany your journey through the "100 Days of Code" challenge, where you'll be committing to code for at least an hour every day for 100 days to improve your Python programming skills.
 
 ## About the Course
@@ -14,4 +14,4 @@ In day 1, I learned about printing,commenting,debugging,string manipulation,vari
 #### [Project - Band-Name Generator](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-1.py)
 ### Day-2
 In day 2, I learned about the data types in python,type casting and type conversion and f- strings.
-#### Project - Tip Calculator
+#### [Project - Tip Calculator](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-2.py)

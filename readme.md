@@ -14,4 +14,4 @@ In day 1, I learned about printing,commenting,debugging,string manipulation,vari
 #### Project - Band-Name Generator
 ### Day-2
 In day 2, I learned about the data types in python,type casting and type conversion and f- strings.
-#### Project - 
+#### Project - Tip Calculator

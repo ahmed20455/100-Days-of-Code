@@ -1,0 +1,14 @@
+Problem Statement: Escape the Maze with Reeborg
+
+In Reeborg's World, you are faced with the challenge of guiding Reeborg, the friendly robot, through a maze to reach the exit. The maze is represented as a grid-based environment with walls and obstacles that Reeborg must navigate around. Your task is to write a Python program that directs Reeborg to find its way through the maze and safely reach the exit.
+
+Objective:
+
+Write a Python program to guide Reeborg through the maze to reach the exit.
+Reeborg should navigate around obstacles, avoid traps, and follow a path to the exit point.
+The program should be efficient, using minimal steps to reach the exit.
+Constraints:
+
+Reeborg has limited movement commands and must follow a predefined set of instructions.
+The maze may contain walls, obstacles, or other hazards that Reeborg cannot pass through.
+Reeborg's movement must be guided by the program without human intervention once started.

@@ -19,4 +19,7 @@ In day 3, I learned about the conditional statements, logical operators, code bl
 #### [Project - Choose your Adventure Game](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-3.py)
 In day 4, I learned about Python lists[],Randomization.
 #### [Project - Rock Paper Scissor Game](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-4.py)
+In day 5, I learned about Loops(for), Range()
+#### [Project - Random Password Generator(Easy)](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-5(a).py)
+#### [Project - Random Password Generator(Hard)](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-5(b).py)
 

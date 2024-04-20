@@ -17,3 +17,6 @@ In day 2, I learned about the data types in python,type casting and type convers
 #### [Project - Tip Calculator](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-2.py)
 In day 3, I learned about the conditional statements, logical operators, code blocks.
 #### [Project - Choose your Adventure Game](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-3.py)
+In day 4, I learned about Python lists[],Randomization.
+#### [Project - Rock Paper Scissor Game((https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-4.py)
+

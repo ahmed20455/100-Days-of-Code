@@ -12,18 +12,20 @@ The course is divided into 100 days, with each day focusing on a specific topic,
 ### Day-1
 In day 1, I learned about printing,commenting,debugging,string manipulation,variables,input function.
 #### [Project - Band-Name Generator](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-1.py)
-
 ### Day-2
 In day 2, I learned about the data types in python,type casting and type conversion and f- strings.
 #### [Project - Tip Calculator](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-2.py)
-
+### Day-3
 In day 3, I learned about the conditional statements, logical operators, code blocks.
 #### [Project - Choose your Adventure Game](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-3.py)
-
+### Day-4
 In day 4, I learned about Python lists[],Randomization.
 #### [Project - Rock Paper Scissor Game](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-4.py)
-
+### Day-5
 In day 5, I learned about Loops(for), Range()
 #### [Project - Random Password Generator(Easy)](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-5(a).py)
 #### [Project - Random Password Generator(Hard)](https://github.com/ahmed20455/100-Days-of-Code/blob/main/Day-5(b).py)
+### Day-6
+In day 6, I learned about functions, code blocks and while loops.
+#### [Project - Escaping the Maze](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-6)
 

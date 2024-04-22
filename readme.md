@@ -28,4 +28,7 @@ In day 5, I learned about Loops(for), Range()
 ### Day-6
 In day 6, I learned about functions, code blocks and while loops.
 #### [Project - Escaping the Maze](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-6)
+### Day-7
+In day 7, I learned more about functions, flow charts.
+#### [Project - Hangman](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-7)
 

@@ -34,3 +34,5 @@ In day 7, I learned more about functions, flow charts.
 ### Day-8
 In day 8, I learned about Functions with inputs, parameters, arguments, positional arguments, round(),ceil()
 #### [Project - Caeser Cipher](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-8)
+### Day-9
+In day 9, I learned about Nesting and Dictionaries in Python.

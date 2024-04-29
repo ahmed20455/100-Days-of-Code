@@ -41,3 +41,5 @@ In day 9, I learned about Nesting and Dictionaries in Python.
 On day 10, I learned about Python functions that return values using the 'return' keyword, enhancing code modularity and reusability.
 #### [Project - Calculator](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-10)
 ### Day-11
+On day 11, I successfully crafted a Blackjack project, leveraging all my existing knowledge to create an engaging and functional application.
+#### [Project - Blackjack](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-11)

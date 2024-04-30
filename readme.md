@@ -43,3 +43,6 @@ On day 10, I learned about Python functions that return values using the 'return
 ### Day-11
 On day 11, I successfully crafted a Blackjack project, leveraging all my existing knowledge to create an engaging and functional application.
 #### [Project - Blackjack](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-11)
+### Day-12
+On day 12, I delved into the concepts of local and global variables, gaining insights into the significance of constants and their role in maintaining data integrity within my codebase.
+#### [Project-Number Guessing Game](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-12)

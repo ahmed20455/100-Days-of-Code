@@ -49,4 +49,6 @@ On day 12, I delved into the concepts of local and global variables, gaining ins
 ### Day-13
 On day 13, I focused on debugging techniques and learned valuable tips for resolving errors efficiently. While I didn't work on a specific project, I gained essential skills to troubleshoot and fix issues in my code effectively.
 ### Day-14
+On day 14, I applied my recent knowledge to create an engaging Higher Lower game. It's a fun and rewarding project that showcases my progress and skills.
+#### [Project-Higher-Lower](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-14)
 ### Day-15

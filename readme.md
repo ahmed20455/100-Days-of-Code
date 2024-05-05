@@ -53,4 +53,4 @@ On day 14, I applied my recent knowledge to create an engaging Higher Lower game
 #### [Project-Higher-Lower](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-14)
 ### Day-15
 On day 15, I focused on configuring my local development environment, essential for efficient coding and testing processes. This involved installing necessary tools and configuring dependencies to mirror the production environment closely.
-#### [Project-Coffee-Machine](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-15)
+#### [Project-Coffee-Machine](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-15.py)

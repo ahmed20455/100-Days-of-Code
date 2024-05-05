@@ -52,4 +52,5 @@ On day 13, I focused on debugging techniques and learned valuable tips for resol
 On day 14, I applied my recent knowledge to create an engaging Higher Lower game. It's a fun and rewarding project that showcases my progress and skills.
 #### [Project-Higher-Lower](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-14)
 ### Day-15
-On day 15
+On day 15, I focused on configuring my local development environment, essential for efficient coding and testing processes. This involved installing necessary tools and configuring dependencies to mirror the production environment closely.
+#### [Project-Coffee-Machine](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-15)

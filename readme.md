@@ -54,3 +54,5 @@ On day 14, I applied my recent knowledge to create an engaging Higher Lower game
 ### Day-15
 On day 15, I focused on configuring my local development environment, essential for efficient coding and testing processes. This involved installing necessary tools and configuring dependencies to mirror the production environment closely.
 #### [Project-Coffee-Machine](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-15.py)
+### Day-16
+On day 16, I explored Object-Oriented Programming (OOP) concepts, diving into classes, objects, attributes, and methods. Additionally, I experimented with Turtle graphics, a beginner-friendly library for creating visual designs in Python. This hands-on session deepened my understanding of fundamental programming paradigms and sparked creativity in visual programming.

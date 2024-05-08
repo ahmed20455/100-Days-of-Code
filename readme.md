@@ -57,3 +57,5 @@ On day 15, I focused on configuring my local development environment, essential 
 ### Day-16
 On day 16, I explored Object-Oriented Programming (OOP) concepts, diving into classes, objects, attributes, and methods. Additionally, I experimented with Turtle graphics, a beginner-friendly library for creating visual designs in Python. This hands-on session deepened my understanding of fundamental programming paradigms and sparked creativity in visual programming.
 #### [Project-Coffee-Machine Using OOPs](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-16)
+### Day-17
+On day 17, I dived into object-oriented programming basics, covering class creation, object instantiation, constructors, attributes, and methods. Understanding these concepts lays the foundation for structuring and manipulating data effectively in code.

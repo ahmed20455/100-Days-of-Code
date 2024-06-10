@@ -69,4 +69,3 @@ On day 17, I dived into object-oriented programming basics, covering class creat
 ### Day-24
 ### Day-25
 ### Day-26
-### Day-27

@@ -63,3 +63,6 @@ On day 17, I dived into object-oriented programming basics, covering class creat
 ### Day-18
 On day 18, I explored the Turtle library in Python, where I learned to control a turtle’s movement to create fun, interactive graphics. I practiced using commands like forward(), right(), and penup() to draw various shapes and patterns. Along the way, I experimented with loops to create repeating designs and customized colors for more creative visual effects. Diving into Turtle made coding feel more intuitive and enjoyable by visually representing the logic behind each step!
 #### [Project-Dot Spot Painting](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-18)
+### Day-19
+On day 19, I delved deeper into Turtle graphics, focusing on more advanced features. I explored how to handle event listeners to make interactive drawings, learned to manage state within the turtle environment, and worked with multiple turtle instances to create complex, synchronized designs. This added a whole new layer of functionality and creativity to my Python projects!
+#### [Project-Turtle Race]

@@ -60,3 +60,6 @@ On day 16, I explored Object-Oriented Programming (OOP) concepts, diving into cl
 ### Day-17
 On day 17, I dived into object-oriented programming basics, covering class creation, object instantiation, constructors, attributes, and methods. Understanding these concepts lays the foundation for structuring and manipulating data effectively in code.
 #### [Project-Quiz](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-17)
+### Day-18
+On day 18, I explored the Turtle library in Python, where I learned to control a turtle’s movement to create fun, interactive graphics. I practiced using commands like forward(), right(), and penup() to draw various shapes and patterns. Along the way, I experimented with loops to create repeating designs and customized colors for more creative visual effects. Diving into Turtle made coding feel more intuitive and enjoyable by visually representing the logic behind each step!
+#### [Project-Dot Spot Painting]

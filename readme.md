@@ -69,3 +69,5 @@ On day 19, I delved deeper into Turtle graphics, focusing on more advanced featu
 ### Day-20
 On day 20, I started building the classic Snake game in Python! 🎮 I worked on Part 1, where I created the snake's body, implemented smooth snake movement, and added controls to change its direction. I also learned about the tracer() method to optimize screen updates, making the game's visuals much smoother. Excited to keep building this out!
 #### [Project-Snake Game Part1](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-20)
+### Day-21
+On day 21, I wrapped up Part 2 of the Snake game, completing the core mechanics! 🕹️ Alongside this, I dived into class inheritance to better structure my code and worked with list slicing to manipulate the snake's body efficiently. It was exciting to see everything come together and finish the game!

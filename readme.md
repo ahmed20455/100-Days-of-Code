@@ -72,4 +72,3 @@ On day 20, I started building the classic Snake game in Python! 🎮 I worked on
 ### Day-21
 On day 21, I wrapped up Part 2 of the Snake game, completing the core mechanics! 🕹️ Alongside this, I dived into class inheritance to better structure my code and worked with list slicing to manipulate the snake's body efficiently. It was exciting to see everything come together and finish the game!
 #### [Project-Snake Game Part2](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-21)
-### Day-22

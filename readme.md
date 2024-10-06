@@ -74,3 +74,4 @@ On day 21, I wrapped up Part 2 of the Snake game, completing the core mechanics!
 #### [Project-Snake Game Part2](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-21)
 ### Day-22
 ### Day-23
+### Day-24

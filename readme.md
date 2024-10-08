@@ -76,4 +76,6 @@ On day 21, I wrapped up Part 2 of the Snake game, completing the core mechanics!
 On day 22, I built the classic Pong game! 🏓🎮 Learned how to manage game objects, detect collisions, and handle user input using Python's turtle module.
 #### [Project-Pong Game](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-22)
 ### Day-23
+On day 23, I completed the Turtle Crossing Road capstone project! 🐢🚦 Developed a fun game using Python's turtle module, where the player navigates a turtle across the road, dodging traffic. It was exciting to apply concepts like OOP and collision detection! 🚗💨
+#### [Project-Turtle Road Crossing Game](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-23)
 ### Day-24

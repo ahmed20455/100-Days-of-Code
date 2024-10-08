@@ -21,6 +21,6 @@ class Scoreboard(Turtle):
         self.update_scoreboard()
 
     def reset_game(self):
-        self.write("You Lost", align="center", font=FONT)
-        self.level = 1
-        self.update_scoreboard()
+        self.goto(0,0)
+        self.write(f"GAME OVER : YOU LOST ❗❗", align="center", font=FONT)
+

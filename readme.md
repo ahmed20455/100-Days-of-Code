@@ -81,3 +81,7 @@ On day 23, I completed the Turtle Crossing Road capstone project! 🐢🚦 Devel
 ### Day-24
 I explored Python file handling—learned about absolute/relative paths, directories, and how to open, write, and close files. 📁💻 Put the knowledge into practice by creating a Mail Merge project, automating personalized mail generation. Super useful skills! ✉️🚀
 #### [Project-Mail Merge](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-24)
+### Day - 25
+I learned how to work with CSV files and explored data analysis using the Pandas library. 🐼📊 Created DataFrames to manage and analyze data efficiently. Wrapped it up with a fun project—US State Game—combining everything learned! 🎮📍
+#### [Project-U.S. States Game](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-25)
+

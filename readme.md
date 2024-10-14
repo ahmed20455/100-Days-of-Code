@@ -82,11 +82,14 @@ On day 23, I completed the Turtle Crossing Road capstone project! 🐢🚦 Devel
 On dat 24, I explored Python file handling—learned about absolute/relative paths, directories, and how to open, write, and close files. 📁💻 Put the knowledge into practice by creating a Mail Merge project, automating personalized mail generation. Super useful skills! ✉️🚀
 #### [Project-Mail Merge](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-24)
 ### Day-25
-On day 25,I learned how to work with CSV files and explored data analysis using the Pandas library. 🐼📊 Created DataFrames to manage and analyze data efficiently. Wrapped it up with a fun project—US State Game—combining everything learned! 🎮📍
+On day 25, I learned how to work with CSV files and explored data analysis using the Pandas library. 🐼📊 Created DataFrames to manage and analyze data efficiently. Wrapped it up with a fun project—US State Game—combining everything learned! 🎮📍
 #### [Project-U.S. States Game](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-25)
 ### Day-26
- On day 26,I delved into list comprehensions and dictionary comprehensions, making my code cleaner and more efficient! 📚✨ Developed a NATO Alphabet Game to reinforce my learning in a fun way. 🎮🔤 Loving the journey! 
+ On day 26, I delved into list comprehensions and dictionary comprehensions, making my code cleaner and more efficient! 📚✨ Developed a NATO Alphabet Game to reinforce my learning in a fun way. 🎮🔤 Loving the journey! 
 #### [Project-NATO Alphabet](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-26)
 ### Day-27
-lOn day 27,I earned how to create GUIs using the tkinter library! 🎨🖥️ Also explored the power of *args and **kwargs in Python. Wrapped up the day by building a Mile to Kilometer Converter GUI. 
+On day 27, I learned how to create GUIs using the tkinter library! 🎨🖥️ Also explored the power of *args and **kwargs in Python. Wrapped up the day by building a Mile to Kilometer Converter GUI. 
 #### [Project-Mile To KM Convertor](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-27)
+### Day-28
+On day 27, I built a Pomodoro Timer using the tkinter library! 🍅⏲️ It was a great way to practice creating interactive GUIs while implementing the Pomodoro technique for productivity. 
+#### [Project-Pomodoro Timer](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-28)

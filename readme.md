@@ -91,5 +91,5 @@ On day 25, I learned how to work with CSV files and explored data analysis using
 On day 27, I learned how to create GUIs using the tkinter library! 🎨🖥️ Also explored the power of *args and **kwargs in Python. Wrapped up the day by building a Mile to Kilometer Converter GUI. 
 #### [Project-Mile To KM Convertor](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-27)
 ### Day-28
-On day 27, I built a Pomodoro Timer using the tkinter library! 🍅⏲️ It was a great way to practice creating interactive GUIs while implementing the Pomodoro technique for productivity. 
+On day 28, I built a Pomodoro Timer using the tkinter library! 🍅⏲️ It was a great way to practice creating interactive GUIs while implementing the Pomodoro technique for productivity. 
 #### [Project-Pomodoro Timer](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-28)

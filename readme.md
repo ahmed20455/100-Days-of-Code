@@ -98,4 +98,3 @@ On day 28, I built a Pomodoro Timer using the tkinter library! 🍅⏲️ It was
 ### Day-31
 ### Day-32
 ### Day-33
-### Day-34

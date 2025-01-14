@@ -94,5 +94,6 @@ On day 27, I learned how to create GUIs using the tkinter library! 🎨🖥️ A
 On day 28, I built a Pomodoro Timer using the tkinter library! 🍅⏲️ It was a great way to practice creating interactive GUIs while implementing the Pomodoro technique for productivity. 
 #### [Project-Pomodoro Timer](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-28)
 ### Day-29
-Day 29 of #100DaysOfPython: Built a Password Manager GUI app using the tkinter library! 🔐💻 It was exciting to create a functional tool for securely storing and managing passwords. Learning and growing every day! 🚀
+On day 29, I built a Password Manager GUI app using the tkinter library! 🔐💻 It was exciting to create a functional tool for securely storing and managing passwords. Learning and growing every day! 🚀
+#### [Password Manager GUI](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-29)
 ### Day-30

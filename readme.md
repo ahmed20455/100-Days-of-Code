@@ -100,3 +100,5 @@ On day 29, I built a Password Manager GUI app using the tkinter library! 🔐�
 On day 30,I enhanced my Password Manager GUI app by adding a search button to retrieve email and password for specific websites! 🔍🔐 Learned how to store data using JSON files and handled errors gracefully with try and except. 📂⚙️
 #### [Updated Password Manager GUI](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-30)
 ### Day-31
+On day 31,I completed the Flash Card Game capstone project to learn French words! 🇫🇷🎴 Designed an interactive app using tkinter for vocabulary building. It’s been so rewarding to combine creativity and coding! 🚀✨ 
+#### [Flash Card Game](https://github.com/ahmed20455/100-Days-of-Code/tree/main/Day-31)
